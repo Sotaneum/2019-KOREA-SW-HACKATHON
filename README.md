@@ -51,6 +51,6 @@
 ## Copyright
 
 - 서체 저작권
-  - [㈜디자인하우스](designhouse.co.kr/service/dhfont)
+  - [㈜디자인하우스](http://designhouse.co.kr/service/dhfont)
 - 비상업적 용도로 사용 가능하며 링크를 반드시 포함해주세요.
 - 문제가 되는 내용이 있다면 언제든지 [`issue`](https://github.com/Sotaneum/2019-KOREA-SW-HACKATHON/issues/new), [`Pull requests`](https://github.com/Sotaneum/2019-KOREA-SW-HACKATHON/compare) 부탁드립니다.
