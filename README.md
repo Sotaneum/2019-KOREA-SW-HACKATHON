@@ -1,0 +1,2 @@
+# 2019-KOREA-SW-HACKATHON
+2019년 제 6회 대한민국 SW융합 해커톤 대회 DEV팀
