@@ -20,6 +20,8 @@
 
 ## Role
 
+![cover](./assets/cover.png)
+
 - 프론트 엔드
   - HTML, CSS, javascript, [jQuery](https://jquery.com/), [Openlayers](https://openlayers.org/), jsDrawViewer, [jsTree](https://www.jstree.com/), Ajax
   - 프로젝트에서 웹으로 데이터를 보여주는 시각화 부분을 담당했습니다.
