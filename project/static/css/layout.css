@@ -1,0 +1,60 @@
+.layout{
+    position: fixed;
+    padding: 0px;
+    margin: 0px;
+}
+
+.background{
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(128, 128, 128, 0.8);
+    border-radius: 3px;
+}
+
+.layout span{
+    padding: 0px;
+    margin: 0px;
+}
+
+.font2{
+    font-size: 20px;
+}
+
+.font3{
+    font-size: 30px;
+}
+
+.font4{
+    font-size: 40px;
+}
+
+.padding6{
+    padding:6px;
+}
+
+.button{
+    background-color: #00B2CA;
+    color: white;
+    text-decoration:none;
+    border: 1px solid white;
+    border-radius: 6px;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    display: block;
+}
+
+.button.hovered, .button:hover {
+    color: #00B2CA;
+    background-color: white;
+    border: 1px solid #00B2CA;
+    text-decoration:none;
+}
+
+.scroll{
+    overflow-y: scroll;
+}
+
+#layout-viewer video{
+    object-fit:fill;
+}

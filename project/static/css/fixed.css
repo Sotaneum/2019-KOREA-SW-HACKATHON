@@ -1,0 +1,76 @@
+
+*{
+    font-family: "designhouseLight";
+}
+
+#fixed{
+    top:0px;
+    left:0px;
+    position:fixed;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+#fixed #fixed-ol-map{
+    width:100vw;
+    height: 100vh;
+}
+
+#fixed #fixed-ol-map *{
+    font-size:15px;
+}
+
+#layout #layout-logo{
+    bottom: 30px;
+    right: 10px;
+    height:30px;
+    text-shadow: 2px 2px 2px gray;
+    cursor: pointer;
+    -webkit-transition: text-shadow .2s;
+    transition: text-shadow .2s;
+}
+
+#layout #layout-logo:hover{
+    text-shadow: 2px 2px 2px #00BCFF;
+}
+
+#layout #layout-viewer{
+    bottom:10px;
+    left:10px;
+}
+
+#layout #layout-menu{
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    height: 180px;
+}
+
+#layout #layout-control{
+    top: 210px;
+    left: 10px;
+    width: 200px;
+    height: calc(60vh - 255px);
+}
+
+#layout #layout-menu #layout-menu-model,
+#layout #layout-menu #layout-menu-locator{
+    width: 100%;
+}
+
+#layout #layout-menu #layout-menu-reg,
+#layout #layout-menu #layout-menu-reset{
+    width: calc(100% - 10px);
+    height: 20px;
+    margin: 5px;
+}
+
+.ol-zoom {
+    left: unset;
+    right: 8px;
+ }
+
+ .hide{
+     display: none;
+ }
